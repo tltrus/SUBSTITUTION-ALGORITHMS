@@ -1,4 +1,4 @@
-# Substitution-algorithms
+# SUBSTITUTION-ALGORITHMS
 
 # Binary-adder
 
